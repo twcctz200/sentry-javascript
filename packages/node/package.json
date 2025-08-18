@@ -19,7 +19,7 @@
     "@sentry/core": "7.30.0",
     "@sentry/types": "7.30.0",
     "@sentry/utils": "7.30.0",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "https-proxy-agent": "^5.0.0",
     "lru_map": "^0.3.3",
     "tslib": "^1.9.3"
