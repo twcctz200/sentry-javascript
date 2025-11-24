@@ -85,7 +85,7 @@
     "jsdom": "^19.0.0",
     "karma-browserstack-launcher": "^1.5.1",
     "karma-firefox-launcher": "^1.1.0",
-    "lerna": "^6.0.3",
+    "lerna": "^8.1.9",
     "madge": "4.0.2",
     "magic-string": "^0.27.0",
     "mocha": "^6.1.4",
